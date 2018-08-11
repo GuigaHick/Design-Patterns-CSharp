@@ -1,0 +1,6 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb

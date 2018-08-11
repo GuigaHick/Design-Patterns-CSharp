@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\bin\Debug\OpenClosed.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\bin\Debug\OpenClosed.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\obj\Debug\OpenClosed.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\obj\Debug\OpenClosed.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\OpenClosed\obj\Debug\OpenClosed.pdb

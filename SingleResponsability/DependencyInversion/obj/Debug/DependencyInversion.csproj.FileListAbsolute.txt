@@ -1,0 +1,9 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\bin\Debug\DependencyInversion.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\bin\Debug\DependencyInversion.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\bin\Debug\System.ValueTuple.dll
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\bin\Debug\System.ValueTuple.xml
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\obj\Debug\DependencyInversion.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\obj\Debug\DependencyInversion.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DependencyInversion\obj\Debug\DependencyInversion.pdb
