@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{EDF68403-4F1C-404D-8B8D-C27A74CEDC0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBuilder", "DemoBuilder\DemoBuilder.csproj", "{9374ECDA-BCA7-4262-8CA6-AB2722CF816A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFactory", "DemoFactory\DemoFactory.csproj", "{DF89A677-9EE6-418C-B13C-828D018B567C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EDF68403-4F1C-404D-8B8D-C27A74CEDC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF68403-4F1C-404D-8B8D-C27A74CEDC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF68403-4F1C-404D-8B8D-C27A74CEDC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9374ECDA-BCA7-4262-8CA6-AB2722CF816A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9374ECDA-BCA7-4262-8CA6-AB2722CF816A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9374ECDA-BCA7-4262-8CA6-AB2722CF816A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9374ECDA-BCA7-4262-8CA6-AB2722CF816A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF89A677-9EE6-418C-B13C-828D018B567C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF89A677-9EE6-418C-B13C-828D018B567C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF89A677-9EE6-418C-B13C-828D018B567C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF89A677-9EE6-418C-B13C-828D018B567C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

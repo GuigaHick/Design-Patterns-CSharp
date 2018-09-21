@@ -1,0 +1,7 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\bin\Debug\DemoFactory.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\bin\Debug\DemoFactory.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\bin\Debug\DemoFactory.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\obj\Debug\DemoFactory.csprojResolveAssemblyReference.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\obj\Debug\DemoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\obj\Debug\DemoFactory.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoFactory\obj\Debug\DemoFactory.pdb
