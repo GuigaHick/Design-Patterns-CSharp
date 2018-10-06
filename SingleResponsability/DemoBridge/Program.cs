@@ -66,12 +66,13 @@ namespace DemoBridge
             IRenderer renderer = new RastererRender();
             //Or you can render as Vector just creating a renderer object and using New VectorRenderer()
             //renderer = new VectorRender();
-
+            
             var circle = new Circle(renderer, 87);
 
             circle.Draw();
             circle.Resize(2);
             circle.Draw();
+
 
             Console.ReadKey();
         }
