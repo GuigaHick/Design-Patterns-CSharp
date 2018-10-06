@@ -35,6 +35,7 @@ namespace DemoObserver
             Console.WriteLine();
 
             Console.WriteLine("Person caught a cold");
+
             p.CatchACold();
             Console.ReadKey();
         }
