@@ -33,6 +33,7 @@ namespace DemoObserver
             Console.WriteLine("Person's health is ok.If you press a key a person gonna catch a cold");
             Console.ReadKey();
             Console.WriteLine();
+
             Console.WriteLine("Person caught a cold");
             p.CatchACold();
             Console.ReadKey();
