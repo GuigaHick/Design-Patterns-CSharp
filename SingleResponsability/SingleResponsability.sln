@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoComposite", "DemoCompos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserver", "DemoObserver\DemoObserver.csproj", "{1C2E8985-01BF-4569-881E-8F8CEF09C1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAdapter", "DemoAdapter\DemoAdapter.csproj", "{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1C2E8985-01BF-4569-881E-8F8CEF09C1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2E8985-01BF-4569-881E-8F8CEF09C1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2E8985-01BF-4569-881E-8F8CEF09C1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
