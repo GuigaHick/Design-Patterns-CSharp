@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserver", "DemoObserve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAdapter", "DemoAdapter\DemoAdapter.csproj", "{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFlyWeight", "DemoFlyWeight\DemoFlyWeight.csproj", "{8FD701C0-ADC2-452D-A14F-76EA9A38D848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB989EFF-38E1-4ED1-A4D3-E41263AB11F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

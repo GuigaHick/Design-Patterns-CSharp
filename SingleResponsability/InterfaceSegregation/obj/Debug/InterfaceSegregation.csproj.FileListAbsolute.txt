@@ -1,0 +1,6 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\obj\Debug\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\obj\Debug\InterfaceSegregation.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb

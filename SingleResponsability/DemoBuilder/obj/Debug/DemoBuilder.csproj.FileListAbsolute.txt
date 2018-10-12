@@ -4,3 +4,4 @@ C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CShar
 C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoBuilder\obj\Debug\DemoBuilder.csproj.CoreCompileInputs.cache
 C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoBuilder\obj\Debug\DemoBuilder.exe
 C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoBuilder\obj\Debug\DemoBuilder.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoBuilder\obj\Debug\DemoBuilder.csprojResolveAssemblyReference.cache
