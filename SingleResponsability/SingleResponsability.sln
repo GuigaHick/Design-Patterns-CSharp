@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAdapter", "DemoAdapter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFlyWeight", "DemoFlyWeight\DemoFlyWeight.csproj", "{8FD701C0-ADC2-452D-A14F-76EA9A38D848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTemplateMethod", "DemoTemplateMethod\DemoTemplateMethod.csproj", "{6C9E817B-572E-42E8-B0B0-D60D9A77F6CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FD701C0-ADC2-452D-A14F-76EA9A38D848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9E817B-572E-42E8-B0B0-D60D9A77F6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9E817B-572E-42E8-B0B0-D60D9A77F6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9E817B-572E-42E8-B0B0-D60D9A77F6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9E817B-572E-42E8-B0B0-D60D9A77F6CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

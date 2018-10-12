@@ -1,0 +1,6 @@
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\bin\Debug\DemoTemplateMethod.exe.config
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\bin\Debug\DemoTemplateMethod.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\bin\Debug\DemoTemplateMethod.pdb
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\obj\Debug\DemoTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\obj\Debug\DemoTemplateMethod.exe
+C:\Users\Bastos\Desktop\Exercises Curse Design Patterns C#\Design-Patterns-CSharp\SingleResponsability\DemoTemplateMethod\obj\Debug\DemoTemplateMethod.pdb
